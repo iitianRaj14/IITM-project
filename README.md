@@ -1,2 +1,2 @@
 # IITM-project
-Influencer Engagement and Sponsorship Coordination platform
+Hospital Management App(MAD 1)
